@@ -1,5 +1,5 @@
 {
-	"name": "innovotel/helpers",
+	"name": "innovotel/yii2-helpers",
 	"description": "Yii2 Helpers common to Innovotel projects",
 	"keywords": ["yii2", "helpers"],
 	"type": "yii2-extension",
@@ -23,6 +23,6 @@
 	},
 	"require": {
 		"composer-plugin-api": "1.0.0",
-        "kartik-v/helpers": "*"
+        "kartik-v/yii2-helpers": "*"
 	}
 }
