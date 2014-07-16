@@ -1,0 +1,28 @@
+{
+	"name": "innovotel/helpers",
+	"description": "Yii2 Helpers common to Innovotel projects",
+	"keywords": ["yii2", "helpers"],
+	"type": "yii2-extension",
+	"license": "Proprietary",
+	"support": {
+		"issues": "http://redmine.innovotel.com/projects/yii2-helpers",
+		"forum": "http://redmine.innovotel.com/projects/yii2-helpers/boards",
+		"wiki": "http://redmine.innovotel.com/projects/yii2-helpers/wiki",
+	},
+	"authors": [
+		{
+			"name": "Marc Lewis",
+			"email": "marc@innovotel.com"
+		}
+	],
+	"autoload": {
+		"psr-4": { "yii\\composer\\": "" }
+	},
+	"extra": {
+		"class": "yii\\composer\\Plugin"
+	},
+	"require": {
+		"composer-plugin-api": "1.0.0",
+        "kartik-v/helpers": "*",
+	}
+}
