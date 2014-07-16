@@ -1,6 +1,6 @@
 <?php
 
-namespace app\helpers;
+namespace innovotel\helpers;
 
 use Yii;
 use yii\helpers\BaseHtml;
