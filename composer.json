@@ -5,9 +5,8 @@
 	"type": "yii2-extension",
 	"license": "Proprietary",
 	"support": {
-		"issues": "http://redmine.innovotel.com/projects/yii2-helpers",
-		"forum": "http://redmine.innovotel.com/projects/yii2-helpers/boards",
-		"wiki": "http://redmine.innovotel.com/projects/yii2-helpers/wiki"
+		"issues": "https://github.com/Innovotel/yii2-helpers/issues",
+		"wiki": "https://github.com/Innovotel/yii2-helpers/wiki"
 	},
 	"authors": [
 		{
