@@ -19,5 +19,6 @@
 	},
 	"require": {
         	"kartik-v/yii2-helpers": "*"
+ 	       "kartik-v/yii2-helpers": "*"
 	}
 }
